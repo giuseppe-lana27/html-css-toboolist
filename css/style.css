@@ -1,0 +1,113 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+header{
+  padding: 25px;
+  margin-bottom: 25px;
+  border-bottom: 1px solid black;
+  background-color: #dcdcdc;
+}
+.logo{
+  margin-right: 10px;
+  vertical-align: middle;
+}
+.nome-logo{
+  display: inline;
+  font-size: 35px;
+  vertical-align: middle;
+  font-weight: bold;
+}
+.contenitore{
+  width: 900px;
+  margin: auto;
+  background-color: #cecece;
+  border-radius: 15px;
+}
+.aggiungi{
+  padding: 15px 15px;
+  margin-bottom: 20px;
+  border-bottom: 5px solid white;
+}
+.bottone{
+  padding: 10px;
+  border-radius: 10px;
+  border: 1px solid #dcdcdc;
+  background-color: white;
+  color: #696969;
+}
+.bottone-colorato{
+  color: white;
+  background-color: #1E90FF;
+}
+.listati{
+  width: 900px;
+  margin-top: 15px;
+}
+.prima-lista{
+  width: 900px;
+  margin-bottom: 50px;
+}
+.nome-menu{
+  display: inline;
+  color: #696969;
+  vertical-align: middle;
+  font-size: 25px;
+  margin-top: 15px;
+}
+ul{
+  list-style: none;
+}
+.da-fare{
+  font-size: 20px;
+  padding: 5px;
+}
+.cerchio{
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  text-align: center;
+  line-height: 20px;
+  font-size: 14px;
+}
+.fatto{
+  border: 1px solid green;
+  color: green;
+  margin-right: 5px;
+}
+.non-fatto{
+  border: 1px solid red;
+  color: red;
+  margin-right: 5px;
+}
+.etichetta{
+  padding: 5px;
+  background-color: #1E90FF;
+  border-radius: 15px;
+  font-size: 15px;
+  color: white;
+  margin-left: 5px;
+}
+.seconda-lista{
+  width: 900px;
+  margin-top: 50px;
+}
+.viola{
+  background-color: #7b68ee;
+}
+.verde{
+  background-color: #3cb371;
+}
+.arancione{
+  background-color: #ffa500;
+}
+.terza-lista{
+  width: 900px;
+  margin-top: 50px;
+}
+.fucsia{
+  background-color: #ee82ee;
+}
